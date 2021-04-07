@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7D227339-8A0D-AA25-ED45-DCE7CAF21111}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeSceneSInglePage.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ChangeSceneButton.cs" Line="21" Column="62" />
+      <File FileName="Assets/Scripts/DropdownHandle.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/ChangeSceneSInglePage.cs" Line="7" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Look" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ChangeSceneSInglePage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="620c2e3b-0b59-4581-a2ae-2c3b95ffb862" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
