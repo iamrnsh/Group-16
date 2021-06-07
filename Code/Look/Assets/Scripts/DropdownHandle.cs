@@ -5,23 +5,9 @@ using UnityEngine;
 public class DropdownHandle : MonoBehaviour
 {
 
-    public static int outputVal;
+    public static int outputVal; //static because it can be accessed from other scripts using the classname.variable_name
     public void dropdownValue(int val)
     {
-        if (val == 0)
-        {
-            outputVal = 0;
-            //Debug.Log(outputVal);
-        }
-        else if (val == 1)
-        {
-            outputVal = 1;
-            //Debug.Log(outputVal);
-        }
-        else
-        {
-            outputVal = 2;
-            //Debug.Log(outputVal);
-        }
+        outputVal = val;
     }
 }

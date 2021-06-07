@@ -1,17 +1,29 @@
 ﻿<Properties StartupConfiguration="{7D227339-8A0D-AA25-ED45-DCE7CAF21111}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeSceneSInglePage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ARTrackedimg.cs">
     <Files>
-      <File FileName="Assets/Scripts/ChangeSceneButton.cs" Line="21" Column="62" />
-      <File FileName="Assets/Scripts/DropdownHandle.cs" Line="3" Column="19" />
-      <File FileName="Assets/Scripts/ChangeSceneSInglePage.cs" Line="7" Column="8" />
+      <File FileName="Assets/Scripts/Chapter/BIology/SectionSelection.cs" Line="29" Column="43" />
+      <File FileName="Assets/Scripts/ImageRecognition.cs" />
+      <File FileName="Assets/Scripts/ChangeSceneSInglePage.cs" />
+      <File FileName="Assets/Scripts/back.cs" />
+      <File FileName="Assets/Scripts/Chapter/BIology/ChapterDopdown.cs" />
+      <File FileName="Assets/Scripts/DropdownHandle.cs" />
+      <File FileName="Assets/Scripts/Chapter/BIology/SceneSelection.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.arcore@4.0.12/Editor/ARCoreBuildProcessor.cs" />
+      <File FileName="Assets/Scripts/BackButton.cs" />
+      <File FileName="Assets/Scripts/LevelLoader.cs" />
+      <File FileName="Assets/Scripts/ARTrackedimg.cs" Line="11" Column="35" />
+      <File FileName="Assets/Scripts/DismissPanel.cs" Line="16" Column="42" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@4.0.12/Runtime/AR/ARInputManager.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Look" expanded="True">
-            <Node name="Assets" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
               <Node name="Scripts" expanded="True">
-                <Node name="ChangeSceneSInglePage.cs" selected="True" />
+                <Node name="Chapter" expanded="True">
+                  <Node name="BIology" expanded="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -21,7 +33,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="620c2e3b-0b59-4581-a2ae-2c3b95ffb862" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="523c5435-a7bc-4e0a-872d-145e0170a554" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: BC1
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5384699589571054623
+  m_GuidHigh: 11541978903793845649
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4959811082428719716
+      m_GuidHigh: 6462989555311145392
+    m_SerializedTextureGuid:
+      m_GuidLow: 11836737668717768333
+      m_GuidHigh: 14980342493075746602
+    m_Size: {x: 0.15, y: 0.07520719}
+    m_SpecifySize: 1
+    m_Name: neuron
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5584812066535105570
+      m_GuidHigh: 2350926033721502891
+    m_SerializedTextureGuid:
+      m_GuidLow: 3772472521531437680
+      m_GuidHigh: 9360601867415880265
+    m_Size: {x: 0.15, y: 0.06789883}
+    m_SpecifySize: 1
+    m_Name: synapse
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5262808166377015166
+      m_GuidHigh: 6567449737343752366
+    m_SerializedTextureGuid:
+      m_GuidLow: 320152545438845249
+      m_GuidHigh: 1952478019517717387
+    m_Size: {x: 0.07, y: 0.055597346}
+    m_SpecifySize: 1
+    m_Name: brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5186789073157247898
+      m_GuidHigh: 5806699496808886917
+    m_SerializedTextureGuid:
+      m_GuidLow: 12996507398961093350
+      m_GuidHigh: 10981199227650313355
+    m_Size: {x: 0.1, y: 0.06095679}
+    m_SpecifySize: 1
+    m_Name: reflex
+    m_Texture: {fileID: 0}

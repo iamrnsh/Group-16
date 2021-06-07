@@ -5,8 +5,18 @@ using UnityEngine.SceneManagement;
 
 public class ChangeSceneSInglePage : MonoBehaviour
 {
-    public void LoadScene()
+    private static Dictionary<string, GameObject> arDictionary; 
+    public void LoadScene(int SceneNumber)
     {
-        SceneManager.LoadScene(0);
+        DropdownHandle.outputVal = 0; //Reset the Standard dropdown
+        ChapterDopdown.chapterSelected = 0; //Reset the Standard dropdown
+
+        if(SceneNumber == 4)
+        {
+            Debug.Log("Going back to the Section Page");
+            
+        }
+
+        SceneManager.LoadScene(SceneNumber);
     }
 }

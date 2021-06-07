@@ -14,4 +14,30 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Subjects.unity
     guid: c5098627575384278b8eaa5224ea896b
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/chapterBiology.unity
+    guid: e00d7089fcb8a476da974d0d69a2ad18
+  - enabled: 0
+    path: Assets/Scenes/SectionBiology.unity
+    guid: 37eaca56df85648dc85151ae0a3912fa
+  - enabled: 0
+    path: Assets/Scenes/Biology/BC1S2.unity
+    guid: f0109b5bd34bd4b4c8988ad20d95e544
+  - enabled: 0
+    path: Assets/Scenes/Biology/BC1S3.unity
+    guid: cf3560ccc058149f89d43249f84ed471
+  - enabled: 0
+    path: Assets/Scenes/Biology/BC1S4.unity
+    guid: 907701765a47b47f1b8819cb5e405bd9
+  - enabled: 0
+    path: Assets/Scenes/Biology/BC1S7.unity
+    guid: d26bae84591db4fa8bfca45c5af405a6
+  - enabled: 0
+    path: Assets/Scenes/Biology/BC1S9.unity
+    guid: 751f7e705c7db401f857cb8481c0e7bf
+  - enabled: 1
+    path: Assets/Scenes/Biology/BC1.unity
+    guid: 9b2091fc4d63d4b7d9ba3cc8dd193165
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9ef65f3cf17a34a35a5c789ad6a0d942, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 42264e07065b74bde91170af8d1d42e9, type: 2}
